@@ -1,0 +1,62 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionDark{
+    background-color: gainsboro;
+    padding: 2rem;
+}
+.coolstuffwrapper{
+    margin-top: 20px;
+    text-align: center;
+}
+button.coolstuffbtn{
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+img.myimg{
+    display: block;
+    margin: auto;
+    
+}
+.modal-form-wrapper{
+    padding: 2rem;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 240px;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 56%;
+}
+.footerimg{
+    padding: 15px;
+}
+.my{
+    background-color: dimgrey;
+    width: 100%;
+}
+.fa{
+margin: 10px;
+}
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.fa-instagram-square{
+    color: white;
+}
+.social{
+    margin: auto;
+}
